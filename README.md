@@ -31,4 +31,4 @@ Executar o projeto no "front" com o comando "npm start"
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/AdrianGKS/School-Enrollment/tree/main?tab=MIT-1-ov-file) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/AdrianGKS/School-Enrollment/blob/main/LICENSE) para mais detalhes.
