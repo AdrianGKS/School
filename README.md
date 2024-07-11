@@ -28,3 +28,7 @@ Executar o projeto no "front" com o comando "npm start"
 - Frontend: Desenvolvido em React, o frontend utiliza bibliotecas como @emotion/react, @mui/material, axios, Bootstrap, React Router, e styled-components para criar uma interface de usuário responsiva e esteticamente agradável. Essas tecnologias garantem uma experiência de usuário fluida, com componentes reutilizáveis e design baseado em Material UI para consistência visual.
 
 - Backend: Construído com Node.js e Express, o backend oferece uma API robusta para gerenciar operações relacionadas à matrícula, como cadastro de estudantes, consulta de cursos disponíveis, processamento de pagamentos, entre outros. O uso de CORS e nodemon facilita o desenvolvimento e o gerenciamento do servidor, garantindo segurança e monitoramento eficaz das operações.
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/AdrianGKS/School-Enrollment/tree/main?tab=MIT-1-ov-file) para mais detalhes.
